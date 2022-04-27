@@ -1,7 +1,5 @@
 ## Hi, I'm ogata 👋
 👨‍💻 Web Developer
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weldar0616&theme=monokai)
 ### My Skills
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,6 +32,8 @@
 ![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weldar0616&theme=monokai)
 
 <!--
 **weldar0616/weldar0616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
