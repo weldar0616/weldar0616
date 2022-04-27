@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/TwitterAPI-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![](https://img.shields.io/badge/Pixi.js-C0379A?style=for-the-badge)
 
-📝 JavaScript: ES2022
+📝 JavaScript: ES5 ~ ES2022
 #### 🌱 I’m currently learning ...
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
