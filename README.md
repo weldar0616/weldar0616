@@ -33,7 +33,7 @@
 ![](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 <!--
 **weldar0616/weldar0616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
