@@ -12,11 +12,14 @@
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Grunt-FAA918?style=for-the-badge&logo=grunt&logoColor=white)
 ![](https://img.shields.io/badge/gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
-![](https://img.shields.io/badge/WebDriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
+![](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
+![](https://img.shields.io/badge/WebDriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)<br/>
 ![](https://img.shields.io/badge/GAS-246FDB?style=for-the-badge&logo=google&logoColor=white)
 ![](https://img.shields.io/badge/GA-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![](https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
-![](https://img.shields.io/badge/Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)<br/>
+![](https://img.shields.io/badge/Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![](https://img.shields.io/badge/LIFF-00C300?style=for-the-badge&logo=line&logoColor=white)
 ![](https://img.shields.io/badge/TwitterAPI-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![](https://img.shields.io/badge/Pixi.js-C0379A?style=for-the-badge)
