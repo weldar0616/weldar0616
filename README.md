@@ -1,5 +1,11 @@
 ## Hi, I'm ogata 👋
 👨‍💻 Web Developer
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weldar0616&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weldar0616&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=weldar0616&theme=github_dark&utcOffset=8)
+
+
 <!--
 ### 🔧 My Skills
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
