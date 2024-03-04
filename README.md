@@ -1,12 +1,20 @@
 ## Hi, I'm ogata 👋
 👨‍💻 Web Developer
 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weldar0616&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=weldar0616&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=weldar0616&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weldar0616&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weldar0616&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=weldar0616&theme=github_dark&utcOffset=9)
 
 
-<!--
 ### 🔧 My Skills
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
